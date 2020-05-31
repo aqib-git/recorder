@@ -1,0 +1,12 @@
+.recorder {
+  box-shadow: 0 0 5px;
+}
+
+.recorder__video {
+  margin-bottom: 20px;
+}
+
+.recorder__controls {
+  display: flex;
+  justify-content: space-around;
+}
